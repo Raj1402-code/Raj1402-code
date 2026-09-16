@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rajkumar%20P%20K&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=CSE%20%40%20VIT%20Chennai%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://raw.githubusercontent.com/Raj1402-code/Raj1402-code/main/assets/header.svg" width="100%" alt="Rajkumar P K - Header Banner" />
 
 <!-- Animated Typing Subtitle -->
 <a href="https://github.com/Raj1402-code">
@@ -119,19 +119,12 @@ hobbies: Exploring emerging tech, UI prototyping, and building micro-tools
 
 <div align="center">
 
-### 💭 Thought of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
-
-**"Code. Learn. Build. Repeat." 🚀**
-
-*Feel free to explore my repositories, open an issue, or drop a message. Let's connect!*
+> *"First, solve the problem. Then, write the code."* — **John Johnson**  
+> *"Code. Learn. Build. Repeat."* 🚀
 
 <br>
 
 <!-- Bottom Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://raw.githubusercontent.com/Raj1402-code/Raj1402-code/main/assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
