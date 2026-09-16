@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Your+Name+%F0%9F%91%8B;Software+%26+Web+Developer;I+Build+Things+For+The+Web;Welcome+To+My+Profile+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Your+Rajkumar P K+%F0%9F%91%8B;Software+%26+Web+Developer;I+Build+Things+For+The+Web;Welcome+To+My+Profile+%E2%9C%A8" alt="Typing SVG" />
 
 <!-- Banner Image (optional - replace with your own or remove) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0" width="100%"/>
