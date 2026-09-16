@@ -1,107 +1,177 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Your+Rajkumar P K+%F0%9F%91%8B;Software+%26+Web+Developer;I+Build+Things+For+The+Web;Welcome+To+My+Profile+%E2%9C%A8" alt="Typing SVG" />
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rajkumar%20P%20K&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=CSE%20%40%20VIT%20Chennai%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-<!-- Banner Image (optional - replace with your own or remove) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0" width="100%"/>
-
-</div>
-
-<!-- ================= ABOUT ME ================= -->
-## 👨‍💻 About Me
-
-- 🌱 I'm currently learning Backend
-- 💬 Ask me about Frontend Dev
-- 📫 How to reach me: rajham1402@gmail.com
-
-<br>
-
-<!-- ================= SOCIAL LINKS ================= -->
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rajkumar-p-k-189ba3387/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- Animated Typing Subtitle -->
+<a href="https://github.com/Raj1402-code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Rajkumar+P+K+%F0%9F%91%8B;CSE+Undergrad+%40+VIT+Chennai+%F0%9F%8E%93;Full-Stack+Web+%26+AI+Developer+%F0%9F%9A%80;Building+Scalable+Apps+%26+Intelligent+Agents+%E2%9A%A1;Turning+Ideas+Into+Impactful+Software+%E2%9C%A8" alt="Typing SVG" />
 </a>
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/raj_._1402/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:rajham1402@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://my-portfolio-neon-nu-28.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+
+<br><br>
+
+<!-- Badges & Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajkumar-p-k-189ba3387/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://my-portfolio-neon-nu-28.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:rajham1402@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Raj1402-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/raj_._1402/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<br>
-
-<!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,html,css,tailwind,sass,mongodb,mysql,postgres,docker,git,github,figma,vscode" />
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raj1402-code&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<br>
+</div>
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Rajkumar P K
+education: B.Tech in Computer Science and Engineering @ VIT Chennai
+experience: Former Web Development Intern @ Decodelabs
+interests:
+  - Full-Stack Web Architecture
+  - Autonomous AI Agents & RAG Systems
+  - Machine Learning in Cybersecurity
+  - Open-Source Software
+current_focus: Building intelligent full-stack products & exploring distributed systems
+hobbies: Exploring emerging tech, UI prototyping, and building micro-tools
+```
+
+- 🎓 **Computer Science Engineering Student** at **VIT Chennai**, driven by a passion for scalable software engineering.
+- 💼 **Hands-on Experience**: Ex-Intern at **Decodelabs**, building real-world responsive web applications and interfaces.
+- 🤖 **AI & Agentic Systems**: Actively developing **RAG assistants (IEEE RAS)** and **OSINT investigative agents**.
+- 🛡️ **Cybersecurity Enthusiast**: Architected **CyberShield ML** for intelligent cyberattack detection and risk assessment.
+- 🚀 **Mission**: Crafting seamless user experiences backed by robust, well-architected systems.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+#### 🌐 Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,c,java,html,css" alt="Languages" />
+  </a>
+</p>
+
+#### ⚛️ Frontend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" alt="Frontend" />
+  </a>
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql" alt="Backend and DB" />
+  </a>
+</p>
+
+#### 🧰 Tools & Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,figma,vercel" alt="Tools" />
+  </a>
+</p>
 
 </div>
 
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🛡️ **CyberShield ML** | ML-based cyberattack detection and real-time risk assessment system | `Python` `Machine Learning` `Security` | [Explore](https://github.com/Raj1402-code/cybershield-ml) |
+| 🎟️ **EventPass** | Modern event management & ticketing platform simplifying discovery and bookings | `React` `Node.js` `Express` `MongoDB` | [Explore](https://github.com/Raj1402-code/EventPass) |
+| 🤖 **IEEE RAS RAG Assistant** | Retrieval-Augmented Generation assistant built for Robotics & Automation Society | `Python` `RAG` `Vector Search` `LLM` | [Explore](https://github.com/Raj1402-code/ieee-ras-rag-assistant) |
+| 🔍 **OSINT Investigative Agent** | Autonomous AI agent for Open Source Intelligence gathering and data analysis | `Python` `AI Agents` `OSINT` | [Explore](https://github.com/Raj1402-code/OSINT-Investigative-agent) |
+| 🎯 **FocusAI** | Intelligent productivity application designed to facilitate flow state and focus | `JavaScript` `AI` `Web` | [Explore](https://github.com/Raj1402-code/FocusAi) |
+| 🌐 **Personal Portfolio** | Sleek, interactive portfolio showcasing projects, experience, and journey | `React / Next.js` `Tailwind CSS` `Vercel` | [Live Site](https://my-portfolio-neon-nu-28.vercel.app/) |
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/Raj1402-code">
+          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Raj1402-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Raj1402-code">
+          <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj1402-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <a href="https://github.com/Raj1402-code">
+    <img src="https://streak-stats.demolab.com/?user=Raj1402-code&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj1402-code&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
+---
+
+### 🏆 Achievements & Badges
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raj1402-code&theme=tokyonight&no-frame=true&no-bg=false&margin_w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-<br>
+---
 
-<!-- ================= TROPHIES ================= -->
-## 🏆 GitHub Trophies
+### 🐍 Contribution Grid Snake
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raj1402-code&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://raw.githubusercontent.com/Raj1402-code/Raj1402-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br>
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-## 🐍 Contribution Snake
+---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raj1402-code/Raj1402-code/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
-<br>
-
-<!-- ================= FOOTER ================= -->
-<div align="center">
-
-### 💭 Quote of the Day
+### 💭 Thought of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+**"Code. Learn. Build. Repeat." 🚀**
 
-<br><br>
+*Feel free to explore my repositories, open an issue, or drop a message. Let's connect!*
 
-**Thanks for stopping by! ⭐ Feel free to check out my repositories and reach out!**
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Bottom Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
