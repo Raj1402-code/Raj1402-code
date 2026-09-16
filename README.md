@@ -75,7 +75,7 @@ hobbies: Exploring emerging tech, UI prototyping, and building micro-tools
 #### ⚛️ Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
   </a>
 </p>
 
@@ -89,7 +89,7 @@ hobbies: Exploring emerging tech, UI prototyping, and building micro-tools
 #### 🧰 Tools & Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,figma,vercel" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,vercel" alt="Tools" />
   </a>
 </p>
 
@@ -108,46 +108,6 @@ hobbies: Exploring emerging tech, UI prototyping, and building micro-tools
 | 🎯 **FocusAI** | Intelligent productivity application designed to facilitate flow state and focus | `JavaScript` `AI` `Web` | [Explore](https://github.com/Raj1402-code/FocusAi) |
 | 🌐 **Personal Portfolio** | Sleek, interactive portfolio showcasing projects, experience, and journey | `React / Next.js` `Tailwind CSS` `Vercel` | [Live Site](https://my-portfolio-neon-nu-28.vercel.app/) |
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Raj1402-code">
-          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Raj1402-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Raj1402-code">
-          <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj1402-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <a href="https://github.com/Raj1402-code">
-    <img src="https://streak-stats.demolab.com/?user=Raj1402-code&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj1402-code&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 Achievements & Badges
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raj1402-code&theme=tokyonight&no-frame=true&no-bg=false&margin_w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 🐍 Contribution Grid Snake
 
